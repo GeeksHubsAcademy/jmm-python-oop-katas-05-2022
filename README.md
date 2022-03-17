@@ -1,0 +1,1 @@
+# jmm-python-oop-katas-05-2022
